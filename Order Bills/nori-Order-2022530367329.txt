@@ -1,0 +1,16 @@
+Order Bill(nori):
+Time of sale: 2022-05-30 11:52:16.370802
+
+--------------------------------------------------
+| Name of the shipping company: nori	 | Contact: 98312312
+| Address: Jhamsikhel
+| The bike of choice: Classic-350
+| Brand: Royal Enfield
+| Color: Gun Metal Grey
+| Quantity: 10
+| Unit Price: $4500
+| Individual Total Price: $45000
+--------------------------------------------------
+
+
+| Total Price: $45000

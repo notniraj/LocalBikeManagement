@@ -1,0 +1,31 @@
+Order Bill(nori):
+Time of sale: 2022-05-30 11:12:18.629033
+
+--------------------------------------------------
+| Name of the shipping company: nori	 | Contact: 93129312
+| Address: Jhamsikhel
+| The bike of choice: SCRAMBLER
+| Brand: DUCATI
+| Color: WHITE
+| Quantity: 104
+| Unit Price: $11000
+| Individual Total Price: $1144000
+--------------------------------------------------
+
+
+Order Bill(nori):
+Time of sale: 2022-05-30 11:12:18.785274
+
+--------------------------------------------------
+| Name of the shipping company: nori	 | Contact: 93129312
+| Address: Jhamsikhel
+| The bike of choice: MT-19
+| Brand: YAMAHA
+| Color: BLACK
+| Quantity: 108
+| Unit Price: $10000
+| Individual Total Price: $1080000
+--------------------------------------------------
+
+
+| Total Price: $2224000

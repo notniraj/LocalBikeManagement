@@ -1,0 +1,31 @@
+Order Bill(Nori's Auto):
+Time of sale: 2022-05-13 00:59:48.153429
+
+--------------------------------------------------
+| Name of the shipping company: Nori's Auto	 | Contact: 9844701231
+| Address: Baluwatar
+| The bike of choice: R1M
+| Brand: YAMAHA
+| Color: PURPLE
+| Quantity: 104
+| Unit Price: $8000
+| Individual Total Price: $832000
+--------------------------------------------------
+
+
+Order Bill(Nori's Auto):
+Time of sale: 2022-05-13 00:59:48.160372
+
+--------------------------------------------------
+| Name of the shipping company: Nori's Auto	 | Contact: 9844701231
+| Address: Baluwatar
+| The bike of choice: RC-8
+| Brand: CRF
+| Color: WHITE
+| Quantity: 200
+| Unit Price: $16000
+| Individual Total Price: $3200000
+--------------------------------------------------
+
+
+| Total Price: $4032000

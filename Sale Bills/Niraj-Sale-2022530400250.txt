@@ -1,0 +1,16 @@
+Sales Bill(Niraj):
+Time of sale: 2022-05-30 11:49:12.429019
+
+--------------------------------------------------
+| Name of the customer: Niraj	 | Contact: -1
+| Address: Jhamsikhel
+| The bike of choice: Classic-350
+| Brand: Royal Enfield
+| Color: Gun Metal Grey
+| Quantity: 230
+| Unit Price: $4500
+| Individual Total Price: $1035000
+--------------------------------------------------
+
+
+| Total Price: $1035000

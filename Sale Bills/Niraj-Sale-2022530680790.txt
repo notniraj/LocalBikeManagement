@@ -1,0 +1,31 @@
+Sales Bill(Niraj):
+Time of sale: 2022-05-30 11:11:28.688726
+
+--------------------------------------------------
+| Name of the customer: Niraj	 | Contact: 98923812312
+| Address: Jhamsikhel
+| The bike of choice: Classic-350
+| Brand: Royal Enfield
+| Color: Gun Metal Grey
+| Quantity: 10
+| Unit Price: $4500
+| Individual Total Price: $45000
+--------------------------------------------------
+
+
+Sales Bill(Niraj):
+Time of sale: 2022-05-30 11:11:28.856872
+
+--------------------------------------------------
+| Name of the customer: Niraj	 | Contact: 98923812312
+| Address: Jhamsikhel
+| The bike of choice: KTM RC-200
+| Brand: KTM
+| Color: Orange Black
+| Quantity: 10
+| Unit Price: $5300
+| Individual Total Price: $53000
+--------------------------------------------------
+
+
+| Total Price: $98000

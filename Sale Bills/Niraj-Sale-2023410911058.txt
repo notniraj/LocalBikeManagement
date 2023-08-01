@@ -1,0 +1,16 @@
+Sales Bill(Niraj):
+Time of sale: 2023-04-10 14:29:45.916059
+
+--------------------------------------------------
+| Name of the customer: Niraj	 | Contact: 9831123123
+| Address: Jhamiskhel
+| The bike of choice: Classic-350
+| Brand: Royal Enfield
+| Color: Gun Metal Grey
+| Quantity: 240
+| Unit Price: $4500
+| Individual Total Price: $1080000
+--------------------------------------------------
+
+
+| Total Price: $1080000

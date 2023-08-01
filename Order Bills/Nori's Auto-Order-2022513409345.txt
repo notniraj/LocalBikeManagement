@@ -1,0 +1,31 @@
+Order Bill(Nori's Auto):
+Time of sale: 2022-05-13 00:41:50.417280
+
+--------------------------------------------------
+| Name of the shipping company: Nori's Auto	 | Contact: 9869850585
+| Address: Baluwatar
+| The bike of choice: Brutale-800
+| Brand: Mv Agusta
+| Color: White Red
+| Quantity: 100
+| Unit Price: $21000
+| Individual Total Price: $2100000
+--------------------------------------------------
+
+
+Order Bill(Nori's Auto):
+Time of sale: 2022-05-13 00:41:50.560624
+
+--------------------------------------------------
+| Name of the shipping company: Nori's Auto	 | Contact: 9869850585
+| Address: Baluwatar
+| The bike of choice: CBR-600
+| Brand: Honda
+| Color: Black
+| Quantity: 105
+| Unit Price: $9000
+| Individual Total Price: $945000
+--------------------------------------------------
+
+
+| Total Price: $3045000

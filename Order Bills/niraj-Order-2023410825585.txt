@@ -1,0 +1,46 @@
+Order Bill(niraj):
+Time of sale: 2023-04-10 14:40:40.830582
+
+--------------------------------------------------
+| Name of the shipping company: niraj	 | Contact: 1312312
+| Address: Random
+| The bike of choice: Classic-350
+| Brand: Royal Enfield
+| Color: Gun Metal Grey
+| Quantity: 200
+| Unit Price: $4500
+| Individual Total Price: $900000
+--------------------------------------------------
+
+
+Order Bill(niraj):
+Time of sale: 2023-04-10 14:40:40.831581
+
+--------------------------------------------------
+| Name of the shipping company: niraj	 | Contact: 1312312
+| Address: Random
+| The bike of choice: Brutale-800
+| Brand: Mv Agusta
+| Color: White Red
+| Quantity: 100
+| Unit Price: $21000
+| Individual Total Price: $2100000
+--------------------------------------------------
+
+
+Order Bill(niraj):
+Time of sale: 2023-04-10 14:40:40.833580
+
+--------------------------------------------------
+| Name of the shipping company: niraj	 | Contact: 1312312
+| Address: Random
+| The bike of choice: NINJA-H2R
+| Brand: KAWASAKI
+| Color: Red
+| Quantity: 100
+| Unit Price: $12000
+| Individual Total Price: $1200000
+--------------------------------------------------
+
+
+| Total Price: $4200000
